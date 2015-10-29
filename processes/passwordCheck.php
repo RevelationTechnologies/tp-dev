@@ -45,5 +45,6 @@ else {
 $valid = validatePassword($oldPassword, $password, $id);
 //echo 'The validation is: '.$valid;
 return $valid;
+//dummy comment
 
 ?>
